@@ -1,1 +1,4 @@
 # lab05
+Лета
+78
+256 SHA256:WkpfkWts+kZRCBLHGT05NlTH/VB6yzI/Xg3J6v16aSA LetaTimur
